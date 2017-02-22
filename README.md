@@ -1,6 +1,9 @@
 # Snow Group (飞雪科技)
 
 ## 技术支持
+
+ ![image](https://github.com/BigChenChen8/snowgroup/raw/master/imgs/call_man.png)
+
 ### 好点子？
 
 如果您有好的创意设计或游戏建议，欢迎通过邮件或微信平台与我们分享。
