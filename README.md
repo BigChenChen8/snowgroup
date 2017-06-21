@@ -22,4 +22,4 @@
 
 官方微博：snowgroup
 
-[隐私协议](/privacy/)
+[隐私协议](/privacy)
