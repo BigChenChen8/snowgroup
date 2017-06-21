@@ -21,3 +21,5 @@
 官方微信公众号：snowgroup
 
 官方微博：snowgroup
+
+[隐私协议](/privacy/)
